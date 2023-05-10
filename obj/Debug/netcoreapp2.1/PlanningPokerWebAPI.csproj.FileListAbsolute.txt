@@ -1,0 +1,17 @@
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\bin\Debug\netcoreapp2.1\PlanningPokerWebAPI.deps.json
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\bin\Debug\netcoreapp2.1\PlanningPokerWebAPI.runtimeconfig.json
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\bin\Debug\netcoreapp2.1\PlanningPokerWebAPI.runtimeconfig.dev.json
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\bin\Debug\netcoreapp2.1\PlanningPokerWebAPI.dll
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\bin\Debug\netcoreapp2.1\PlanningPokerWebAPI.pdb
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.csproj.CoreCompileInputs.cache
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.RazorAssemblyInfo.cache
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.RazorAssemblyInfo.cs
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.AssemblyInfoInputs.cache
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.AssemblyInfo.cs
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.RazorTargetAssemblyInfo.cache
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.dll
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.pdb
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.csproj.AssemblyReference.cache
+D:\Personal\PlanningPoker\Backend\PlanningPokerWebAPI\PlanningPokerWebAPI\obj\Debug\netcoreapp2.1\PlanningPokerWebAPI.genruntimeconfig.cache
